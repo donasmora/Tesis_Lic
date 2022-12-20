@@ -1,4 +1,4 @@
-# Tesis_Lic
+# Estudio de variabilidad espectral
 
 En este repositorio se presentan una serie de códigos con los que es posible realizar estudios de variabilidad espectral en blázares. Se crearon y utilizaron como parte fundamental del desarrollo de la tesis de licenciatura de Donaldo Emilio Mora Chávez, que lleva por título *Variabilidad espectral en las bandas del óptico de una muestra de blázares TeV*.
 
