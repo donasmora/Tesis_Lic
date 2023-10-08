@@ -4,6 +4,8 @@ En este repositorio se presentan una serie de códigos con los que es posible re
 
 Estos códigos se encuentran en constante mejora y optimización, con el objetivo de ser utilziados en estudios futuros de este tipo. Por esto mismo, estos están disponibles para cualquier persona que desee utilizarlos con estos objetivos, dando los créditos correspondientes.
 
+Actualización octubre 2023: Se agregó el cartel presentado en el Congreso Nacional de Física 2023 en el que se presentan parte de los resultados de la tesis.
+
 **Nota:** El archivo [datos_completos.py](https://github.com/donasmora/Tesis_Lic/blob/main/datos_completos.py) está hecho exclusivamente para los datos utilizados en la tesis. Hay algunas funciones que dependen de los datos obtenidos al ejecutar este código, para usos externos basta con cargar los datos con un DataFrame equivalente al que en este código se genera y darle el nombre `new_datos`, cuidando que las columnas de este sean iguales a las del resultante del archivo mencionado.
 
 Para comentarios y aclaraciones escribir al correo: doemora@astro.unam.mx
